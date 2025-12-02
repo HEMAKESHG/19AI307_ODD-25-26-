@@ -22,8 +22,8 @@ To write a Java program that defines a class Circle and uses a constructor to ca
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: Prasana v
-RegisterNumber: 212223040150
+Developed by: Hemakesh G
+RegisterNumber: 212223040064
 */
 ```
 
@@ -68,6 +68,7 @@ public class Main {
 
 ## RESULT:
 The program successfully calculates and displays the area of a circle using a constructor.
+
 
 
 
