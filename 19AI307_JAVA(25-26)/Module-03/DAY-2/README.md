@@ -18,8 +18,8 @@ To write a Java program that demonstrates method overriding using inheritance an
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: Prasana v
-RegisterNumber: 212223040150
+Developed by: Hemakesh G
+RegisterNumber: 212223040064
 */
 ```
 
@@ -80,6 +80,7 @@ public class prog {
 
 ## RESULT:
 The program successfully demonstrates method overriding, showing different behaviors of the sound() method for different animal subclasses.
+
 
 
 
